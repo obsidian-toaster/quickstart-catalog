@@ -1,0 +1,7 @@
+id: wildfly-swarm-rest
+name: WildFly Swarm REST Quickstart
+description: This project exposes a simple REST endpoint where the service greeting is available at this address http://hostname:port/greeting and returns a JSON Greeting message
+githubRepo: obsidian-toaster-quickstarts/rest_wildfly-swarm
+gitRef: master
+openshiftTemplatePath: .obsidian/openshift-template.yaml
+obsidianDescriptorPath: .obsidian/obsidian.yaml
