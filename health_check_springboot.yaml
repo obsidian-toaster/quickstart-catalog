@@ -1,0 +1,4 @@
+githubRepo: obsidian-toaster-quickstarts/health_check_springboot
+gitRef: master
+openshiftTemplatePath: .obsidian/openshift-template.yaml
+obsidianDescriptorPath: .obsidian/obsidian.yaml
