@@ -1,0 +1,4 @@
+githubRepo: obsidian-toaster-quickstarts/rest_springboot-tomcat
+gitRef: master
+openshiftTemplatePath: .obsidian/openshift-template.yaml
+obsidianDescriptorPath: .obsidian/obsidian.yaml
