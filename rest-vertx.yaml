@@ -1,4 +1,4 @@
-githubRepo: gastaldi/rest_vertx
+githubRepo: obsidian-toaster-quickstarts/rest_vertx
 gitRef: master
 openshiftTemplatePath: .obsidian/openshift-template.yaml
 obsidianDescriptorPath: .obsidian/obsidian.yaml
