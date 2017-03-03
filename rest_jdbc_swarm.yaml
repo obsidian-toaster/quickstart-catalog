@@ -1,0 +1,4 @@
+githubRepo: obsidian-toaster-quickstarts/rest_jdbc_swarm
+gitRef: master
+openshiftTemplatePath: .obsidian/openshift-template.yaml
+obsidianDescriptorPath: .obsidian/obsidian.yaml
