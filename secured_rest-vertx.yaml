@@ -1,0 +1,4 @@
+githubRepo: obsidian-toaster-quickstarts/secured_rest-vertx
+gitRef: master
+openshiftTemplatePath: .obsidian/openshift-template.yaml
+obsidianDescriptorPath: .obsidian/obsidian.yaml
