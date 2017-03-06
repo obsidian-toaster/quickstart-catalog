@@ -1,4 +1,3 @@
 githubRepo: obsidian-toaster-quickstarts/rest_configmap_vertx
 gitRef: master
-openshiftTemplatePath: .obsidian/openshift-template.yaml
 obsidianDescriptorPath: .obsidian/obsidian.yaml
