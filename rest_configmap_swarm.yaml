@@ -1,3 +1,3 @@
-githubRepo: obsidian-toaster-quickstarts/rest_configmap_swarm
+githubRepo: wildfly-swarm-openshiftio-boosters/configmap
 gitRef: master
 obsidianDescriptorPath: .obsidian/obsidian.yaml
