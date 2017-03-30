@@ -13,5 +13,5 @@ The `launchpad.yaml` file is expected to have the following structure:
 
 Name   | Description | Required | Size
 ------ | ----------- | -----    | ----
-name|The name |Yes|
-description  |  The quickstart description  |Yes  |  255  
+name | The quickstart name  |  Yes  |  50
+descriptionFile  |  Link to file in repo containing adoc for the description (assumed default: `.openshiftio/description.adoc` ) |No  |  255
