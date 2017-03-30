@@ -1,3 +1,3 @@
-githubRepo: obsidian-toaster-quickstarts/rest_wildfly-swarm
+githubRepo: wildfly-swarm-openshiftio-boosters/rest-http
 gitRef: master
 obsidianDescriptorPath: .obsidian/obsidian.yaml

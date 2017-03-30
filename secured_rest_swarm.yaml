@@ -1,3 +1,3 @@
-githubRepo: obsidian-toaster-quickstarts/secured_rest_swarm
+githubRepo: wildfly-swarm-openshiftio-boosters/rest-secured
 gitRef: master
 obsidianDescriptorPath: .obsidian/obsidian.yaml
