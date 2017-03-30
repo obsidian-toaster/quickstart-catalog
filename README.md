@@ -1,5 +1,5 @@
-# Quickstart Catalog
-Set of known example applications conforming to the minimal set of requirements necessary to become part of the QuickStart experience.
+# Booster Catalog
+Set of known example applications (Boosters) conforming to the minimal set of requirements necessary to be served by the Launchpad.
 
 For each example application, create a YAML file with information containing:
 
@@ -7,11 +7,11 @@ Name   | Description
 ------ | -----------
 githubRepo| The GitHub repository location
 gitRef | The git reference (tag/branch/SHA1)
-obsidianDescriptorPath|  Path in the repository specified to `obsidian.yaml` (defaults to `.obsidian/obsidian.yaml`)
+launchpadDescriptorPath|  Path in the repository specified to `launchpad.yaml` (defaults to `.openshiftio/launchpad.yaml`)
 
-The `obsidian.yaml` file is expected to have the following structure:
+The `launchpad.yaml` file is expected to have the following structure:
 
 Name   | Description | Required | Size
 ------ | ----------- | -----    | ----
-name | The quickstart name  |  Yes  |  50
+name|The name |Yes|
 description  |  The quickstart description  |Yes  |  255  
