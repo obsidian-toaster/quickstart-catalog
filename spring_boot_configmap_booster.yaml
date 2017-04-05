@@ -1,3 +1,3 @@
-githubRepo: snowdrop/rest_configmap_springboot-tomcat
+githubRepo: snowdrop/spring-boot-configmap-booster
 gitRef: master
 obsidianDescriptorPath: .openshiftio/booster.yaml
